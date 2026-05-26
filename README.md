@@ -2,7 +2,7 @@
 ![Preview do Sistema - tela lateral](./src/assets/contato.png)
 ![Preview do Sistema - home contatos](./src/assets/home2.png)
 
-# 🎨 Agenda Telefônica Web — Front-end Premium com React & TypeScript
+# 🎨 Agenda Telefônica Web — Front-end com React & TypeScript
 
 Este repositório contém a interface web (Front-end) da **Agenda Telefônica**, projetada para oferecer uma experiência de usuário (UX) minimalista, fluida e de alta performance. O projeto foi construído utilizando **React.js** com a velocidade do **Vite**, totalmente tipado com **TypeScript** e estilizado com o moderno **Tailwind CSS v4**.
 
